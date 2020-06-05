@@ -1,4 +1,21 @@
-Ezequiel Segota
-Luciano Sinisterra
-Matias Sandoval
+
+Sinisterra Luciano - Matias Sandoval - Ezequiel Segota
+
+
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+
+
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+
+
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+
+
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+
 
