@@ -17,3 +17,24 @@ D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 
 R: Quedó el de BETA.
 
+E- ¿Algún integrante tuvo problemas al hacer el push?
+
+R: Todos tuvimos problemas.
+
+F- ¿Qué problemas surgieron?
+
+R: A BETA le figuraba:   "both modified:   index.html", es decir, que  el archivo que empezo a modificar beta habia cambiado por alfa en el repositorio mientras estaba siendo modificado por beta.
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+
+R: Editando el archivo borrando head y las lineas que agrego git, dejando los cambios deseados o haciendo un git pull luego de que hayan hecho un git push. 
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+
+R: Se sobrescriben los cambios del colaborador anterior.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+R:  Lo comun seria un merge, pero pincharia por los cambios de git, asi que para que aparezcan los 3 cambios hay que hacer un pull despues de los cambios de cada uno.
