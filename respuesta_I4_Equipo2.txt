@@ -1,21 +1,19 @@
 
 Sinisterra Luciano - Matias Sandoval - Ezequiel Segota
 
+A- ¿Qué color de fondo tiene su página en el TESTING ? 
 
-
-A- ¿Qué color de fondo tiene su página en el TESTING ?
-
-
+R: Quedó Azul.
 
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 
-
+R: Quedó Amarillo.
 
 C- ¿Qué color de fondo tiene su página en el MASTER?
 
-
+R: Quedó Celeste.
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 
-
+R: Quedó el de BETA.
 
